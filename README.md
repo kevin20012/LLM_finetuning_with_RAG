@@ -104,6 +104,18 @@ peft_params = LoraConfig(
 model = get_peft_model(model, lora_config)
 ```
 
+## 3. RAG
+
+### 👍 해당 코드에서는 RAG를 실지 않았지만, RAG를 구현하기 위한 방법을 정리하였습니다.
+
+### 아래 이미지를 클릭하면 이동합니다.
+
+<a href="https://kevin20012.notion.site/RAG-548fdb6f9ece41319353cdd7e8ae7d09?pvs=4">
+    <img src="./readme_image/rag.png" width="200px" alt="이미지를 클릭하면 이동합니다." style="border-radius: 5px; box-shadow: 5px 5px black">
+</a>
+
+###
+
 # Feat. 2024 인하 인공지능 대회가 끝나고...
 
 본 코드는 2024 인하 인공지능 대회를 위해 작성되었습니다. context를 읽고 질문에 답변하는 모델의 성능을 높이기 위해 다양한 기법을 사용하였습니다.
