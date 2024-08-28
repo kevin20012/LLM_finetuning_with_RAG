@@ -110,7 +110,7 @@ model = get_peft_model(model, lora_config)
 
 1. 파인튜닝을 하고싶어... => **QLoRA**
 2. VRAM이 부족해... => **Unsloth**
-3. 그래도 성능이 안나와... => **모델 변경, 디코딩방법 변화, 프롬프트 엔지니어링(zero-shot, few-shot, priciple of prompt), RAG**
+3. 그래도 성능이 안나와... => **하이퍼파라미터 수정, 모델 변경, 디코딩방법 변화, 프롬프트 엔지니어링(zero-shot, few-shot, priciple of prompt), dropout, neftune, RAG**
 
 ## 대회 기간의 사고과정
 
