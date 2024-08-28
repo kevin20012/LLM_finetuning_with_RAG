@@ -110,9 +110,11 @@ model = get_peft_model(model, lora_config)
 
 ### 아래 이미지를 클릭하면 이동합니다.
 
+<kbd>
 <a href="https://kevin20012.notion.site/RAG-548fdb6f9ece41319353cdd7e8ae7d09?pvs=4">
-    <img src="./readme_image/rag.png" width="200px" alt="이미지를 클릭하면 이동합니다." style="border-radius: 5px; box-shadow: 5px 5px black">
+    <img src="./readme_image/rag.png" width="200px" alt="이미지를 클릭하면 이동합니다." style="border-radius: 5px;">
 </a>
+</kbd>
 
 ###
 
